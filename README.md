@@ -30,4 +30,4 @@ If any of the `assert` statements fail **with** `severity error` then GHDL will 
 ## Documentation statement
 Compared my test thunderbird_fsm_tb with C3C Jack Rust to ensure I covered enough test cases
 
-![Waveform from thunderbird_fsm_tb](lab3_waveform.png)
+![Waveform from thunderbird_fsm_tb](Lab3_waveform.png)
